@@ -1,0 +1,20 @@
+Stop Number,Visit Name,Address,Street,City,State,Zip code,Latitude,Longitude,Arrive at,Start at,Finish by,Distance(km)
+0,,"261 Queen St, Brisbane City QLD 4000, Australia",,,,,-27.4678514,153.0279357,0:00,0:00,,0
+1,Southport Esplanade,"Southport QLD 4215, Australia",,,,,-27.9619676,153.4133479,0:54,0:54,1:04,73.0973
+2,Southport Court House,"Davenport St & Hinze Street, Southport QLD 4215, Australia",,,,,-27.9673465,153.4127265,1:07,1:07,1:17,0.8425
+3,Currumbin Lookout,Currumbin Lookout,Currumbin Lookout,,,,-28.1277659,153.4836186,1:49,1:49,1:59,26.277
+4,Gold Coast Hinterland,Gold Coast Hinterland,Gold Coast Hinterland,,,,-28.092672,153.356009,2:26,2:26,2:36,18.7594
+5,Springbrook Falls,Springbrook Falls,Springbrook Falls,,,,-28.1896626,153.2686837,3:10,3:10,3:20,23.3404
+6,Yatala Drive-In,Yatala Drive-In,Yatala Drive-In,,,,-27.7314906,153.2382552,4:18,4:18,4:28,67.1777
+7,Helidon Spa (Water Company),"Helidon Spa QLD 4344, Australia",,,,,-27.5519936,152.0926756,5:55,5:55,6:05,125.1627
+8,Toowoomba,"Toowoomba QLD, Australia",,,,,-27.5598212,151.9506696,6:29,6:29,6:39,17.9198
+9,Deer Reserve State Forest,"Deer Reserve State Forest, Queensland, Australia",,,,,-26.9995156,152.491511,8:27,8:27,8:37,123.9678
+10,Kilcoy,Kilcoy,Kilcoy,,,,-26.9422979,152.5620065,8:56,8:56,9:06,9.7978
+11,Jimna,Jimna,Jimna,,,,-26.660833,152.464722,9:52,9:52,10:02,39.4943
+12,Woodford Prison,"Neurum Rd, Woodford QLD 4514, Australia",,,,,-26.9481613,152.750398,11:09,11:09,11:19,65.5867
+13,Sunshine Coast,"Sunshine Coast QLD, Australia",,,,,-26.65,153.066667,12:22,12:22,12:32,72.9898
+14,"Kings Beach, Caloundra","Kings Beach, Caloundra","Kings Beach, Caloundra",,,,-26.801,153.141,13:00,13:00,13:10,22.2756
+15,Caboolture,Caboolture,Caboolture,,,,-27.066667,152.966667,13:54,13:54,14:04,47.6952
+16,Bribie Island,Bribie Island,Bribie Island,,,,-26.9861003,153.1325243,14:43,14:43,14:53,31.2564
+17,Dayboro,Dayboro,Dayboro,,,,-27.196196,152.82427,15:54,15:54,16:04,67.4925
+999,,"261 Queen St, Brisbane City QLD 4000, Australia",,,,,-27.4679706,153.0280953,16:51,16:51,,44.4925

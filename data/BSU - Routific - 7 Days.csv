@@ -1,0 +1,149 @@
+Driver Name,Stop Number,Visit Name,Address,Street,City,State,Zip code,Latitude,Longitude,Arrive at,Start at,Finish by,Distance(km)
+Day 1,0,,"261 Queen St, Brisbane City QLD 4000, Australia",,,,,-27.4678514,153.0279357,8:00,8:00,,0
+Day 1,1,"Roma Street, Brisbane","Roma Street, Brisbane","Roma Street, Brisbane",,,,-27.46687,153.0197947,8:04,8:04,8:14,1.2088
+Day 1,2,Roma Street Police Station,Roma Street Police Station,Roma Street Police Station,,,,-27.4665111,153.017933,8:15,8:15,8:25,0.1877
+Day 1,3,"24 Montague Road, West End","24 Montague Road, West End","24 Montague Road, West End",,,,-27.4709654,153.0158327,8:28,8:28,8:38,1.2881
+Day 1,4,Queensland Museum,Queensland Museum,Queensland Museum,,,,-27.474007,153.0183854,8:40,8:40,8:50,0.6097
+Day 1,5,South Brisbane,South Brisbane,South Brisbane,,,,-27.47665,153.01667,8:52,8:52,9:02,0.4563
+Day 1,6,Regatta Hotel,"543 Coronation Dr, Toowong QLD 4066, Australia",,,,,-27.482501,152.9964643,9:11,9:11,9:21,3.5674
+Day 1,7,University of Queensland,University of Queensland,University of Queensland,,,,-27.4975028,153.0136905,9:36,9:36,9:46,4.931
+Day 1,8,"Eldorado Cinema, Indooroopilly","Eldorado Cinema, Indooroopilly","Eldorado Cinema, Indooroopilly",,,,-27.503209,152.9748625,10:02,10:02,10:12,5.4364
+Day 1,9,Jindalee State High School,Jindalee State High School,Jindalee State High School,,,,-27.5372161,152.9390687,10:26,10:26,10:36,7.8921
+Day 1,10,Jindalee Pool,Jindalee Pool,Jindalee Pool,,,,-27.5326573,152.9429095,10:38,10:38,10:48,0.7768
+Day 1,11,The Gap,"The Gap QLD 4061, Australia",,,,,-27.443889,152.953056,11:09,11:09,11:19,15.1849
+Day 1,12,Enoggera Reservoir,Enoggera Reservoir,Enoggera Reservoir,,,,-27.4258953,152.8807427,11:34,11:34,11:44,9.5159
+Day 1,,Break,,,,,,,,12:00,12:00,13:00,0
+Day 1,13,Samford,"Samford Valley QLD 4520, Australia",,,,,-27.3711734,152.8676421,13:16,13:16,13:26,23.6165
+Day 1,14,Ferny Grove,Ferny Grove,Ferny Grove,,,,-27.403056,152.928056,13:44,13:44,13:54,10.7505
+Day 1,15,Gaythorne,Gaythorne,Gaythorne,,,,-27.418,152.983,14:08,14:08,14:18,6.6521
+Day 1,16,"Countess Street, Brisbane","Countess Street, Brisbane","Countess Street, Brisbane",,,,-27.4620153,153.0151287,14:31,14:31,14:41,6.9216
+Day 1,17,Queensland Supreme Court,Queensland Supreme Court,Queensland Supreme Court,,,,-27.4676341,153.0206631,14:45,14:45,14:55,1.2569
+Day 1,18,Brisbane Supreme Court,"415 George St, Brisbane City QLD 4000, Australia",,,,,-27.4676341,153.0206631,14:55,14:55,15:05,0
+Day 1,999,,"261 Queen St, Brisbane City QLD 4000, Australia",,,,,-27.4678514,153.0279357,15:09,15:09,,1.0877
+Day 2,0,,"261 Queen St, Brisbane City QLD 4000, Australia",,,,,-27.4678514,153.0279357,8:00,8:00,,0
+Day 2,1,Cedar Creek Falls,"Cedar Creek Falls, Cedar Creek QLD 4520, Australia",,,,,-27.3118305,152.7768432,8:45,8:45,8:55,36.8816
+Day 2,2,Bald Hills,"Bald Hills QLD 4036, Australia",,,,,-27.3175935,153.010807,9:30,9:30,9:40,29.981
+Day 2,3,"Percivale Street, Bracken Ridge","Percivale Street, Bracken Ridge","Percivale Street, Bracken Ridge",,,,-27.31346,153.029384,9:46,9:46,9:56,2.4934
+Day 2,4,"Gawain Road, Bracken Ridge","Gawain Road, Bracken Ridge","Gawain Road, Bracken Ridge",,,,-27.3154587,153.0335706,9:57,9:57,10:07,0.5914
+Day 2,5,"5 Lancelot Street, Bracken Ridge","Gawain Rd, Bracken Ridge QLD 4017, Australia",,,,,-27.3154587,153.0335706,10:07,10:07,10:17,0
+Day 2,6,"Geraint Street, Bracken Ridge","Geraint Street, Bracken Ridge","Geraint Street, Bracken Ridge",,,,-27.315959,153.036848,10:18,10:18,10:28,0.3286
+Day 2,7,Bracken Ridge Library,Bracken Ridge Library,Bracken Ridge Library,,,,-27.317972,153.037873,10:30,10:30,10:40,0.4646
+Day 2,8,"Red Rooster, 162 Barrett Street, Bracken Ridge","162 Barrett St, Bracken Ridge QLD 4017, Australia",,,,,-27.319858,153.04121,10:42,10:42,10:52,0.481
+Day 2,9,"McKeering St, Bracken Ridge","McKeering St, Bracken Ridge","McKeering St, Bracken Ridge",,,,-27.3178309,153.0414084,10:53,10:53,11:03,0.2358
+Day 2,10,"Playford Street, Bracken Ridge","Playford Street, Bracken Ridge","Playford Street, Bracken Ridge",,,,-27.315819,153.041755,11:05,11:05,11:15,0.2716
+Day 2,11,Nashville State High School,"68 Barfoot St, Bracken Ridge QLD 4017, Australia",,,,,-27.3074054,153.044361,11:19,11:19,11:29,1.5912
+Day 2,12,Brighton,"Brighton QLD 4017, Australia",,,,,-27.299,153.057,11:35,11:35,11:45,1.82
+Day 2,,Break,,,,,,,,11:55,12:00,13:00,0
+Day 2,13,Hornibrook Bridge,"8 Inlet Terrace, Clontarf QLD 4019, Australia",,,,,-27.262953,153.0788746,13:00,13:00,13:10,5.2336
+Day 2,14,Redcliffe Hospital,Redcliffe Hospital,Redcliffe Hospital,,,,-27.2279451,153.1048666,13:21,13:21,13:31,6.3376
+Day 2,15,Redcliffe,Redcliffe,Redcliffe,,,,-27.2258,153.1063,13:33,13:33,13:43,0.4633
+Day 2,16,Redcliffe Dolphins Oval,Redcliffe Dolphins Oval,Redcliffe Dolphins Oval,,,,-27.2188292,153.0972298,13:47,13:47,13:57,1.5296
+Day 2,17,"Bee Gees Memorial, Redcliffe","Bee Gees Memorial, Redcliffe","Bee Gees Memorial, Redcliffe",,,,-27.2276945,153.1146412,14:03,14:03,14:13,2.3532
+Day 2,18,Suttons Beach,Suttons Beach,Suttons Beach,,,,-27.2352799,153.1150852,14:19,14:19,14:29,1.7914
+Day 2,999,,"261 Queen St, Brisbane City QLD 4000, Australia",,,,,-27.4679706,153.0280953,15:08,15:08,,33.5242
+Day 3,0,,"261 Queen St, Brisbane City QLD 4000, Australia",,,,,-27.4678514,153.0279357,8:00,8:00,,0
+Day 3,1,Darra Brickworks,Darra Brickworks,Darra Brickworks,,,,-27.5637362,152.9622471,8:27,8:27,8:37,19.1645
+Day 3,2,"Arcadia Cres, Darra","Arcadia Cres, Darra","Arcadia Cres, Darra",,,,-27.5687681,152.9509432,8:41,8:41,8:51,1.4876
+Day 3,3,"Harrington St, Darra","Harrington St, Darra","Harrington St, Darra",,,,-27.570239,152.9497101,8:53,8:53,9:03,0.2835
+Day 3,4,"Ducie Street Park, Darra","Ducie Street Park, Darra","Ducie Street Park, Darra",,,,-27.5714432,152.9499549,9:03,9:03,9:13,0.129
+Day 3,5,"Stratheden St, Darra","Stratheden St, Darra","Stratheden St, Darra",,,,-27.5713023,152.9499657,9:13,9:13,9:23,0.0044
+Day 3,6,Darra State School,Darra State School,Darra State School,,,,-27.570748,152.9536939,9:25,9:25,9:35,0.3972
+Day 3,7,"Darra Station Rd, Darra","Darra Station Rd, Darra","Darra Station Rd, Darra",,,,-27.5705312,152.9527255,9:36,9:36,9:46,0.0925
+Day 3,8,Darra Train Station,Darra Train Station,Darra Train Station,,,,-27.5658434,152.9527495,9:47,9:47,9:57,0.5923
+Day 3,9,"Sandakan Street, Darra","Sandakan Street, Darra","Sandakan Street, Darra",,,,-27.5660241,152.9532121,9:57,9:57,10:07,0.0433
+Day 3,10,"Swanavelder/Butcher/Hardy Sts, Darra","Swanavelder/Butcher/Hardy Sts, Darra","Swanavelder/Butcher/Hardy Sts, Darra",,,,-27.5660241,152.9532121,10:07,10:07,10:17,0
+Day 3,11,Darra Lawn Bowls Club,Darra Lawn Bowls Club,Darra Lawn Bowls Club,,,,-27.5657244,152.9508633,10:19,10:19,10:29,0.4702
+Day 3,12,Queensland Cement and Lime Company,"18 Station Ave, Darra QLD 4076, Australia",,,,,-27.56461,152.950759,10:30,10:30,10:40,0.2193
+Day 3,13,Kosciuszko Polish Association of Darra,Kosciuszko Polish Association of Darra,Kosciuszko Polish Association of Darra,,,,-27.56471,152.9514517,10:41,10:41,10:51,0.0477
+Day 3,14,"South-West Star, 64 Spine St, Sumner Park","South-West Star, 64 Spine St, Sumner Park","South-West Star, 64 Spine St, Sumner Park",,,,-27.5611181,152.9339704,10:55,10:55,11:05,2.084
+Day 3,15,Jamboree Heights,Jamboree Heights,Jamboree Heights,,,,-27.557147,152.9338313,11:08,11:08,11:18,1.0416
+Day 3,16,"Centenary Highway, Darra","Centenary Highway, Darra","Centenary Highway, Darra",,,,-27.568181,152.9437744,11:22,11:22,11:32,2.3499
+Day 3,,Break,,,,,,,,11:59,12:00,13:00,0
+Day 3,17,"Cork Lane, Bellbowrie","Cork Lane, Bellbowrie","Cork Lane, Bellbowrie",,,,-27.566667,152.883333,13:00,13:00,13:10,19.331
+Day 3,18,Bellbowrie,Bellbowrie,Bellbowrie,,,,-27.566667,152.883333,13:10,13:10,13:20,0
+Day 3,999,,"261 Queen St, Brisbane City QLD 4000, Australia",,,,,-27.4679706,153.0280953,13:52,13:52,,22.4891
+Day 4,0,,"261 Queen St, Brisbane City QLD 4000, Australia",,,,,-27.4679706,153.0280953,8:00,8:00,,0
+Day 4,1,New Farm,"New Farm QLD 4005, Australia",,,,,-27.468,153.048,8:09,8:09,8:19,3.122
+Day 4,2,Story Bridge,"Story Bridge, Brisbane City QLD 4000, Australia",,,,,-27.4658233,153.0358217,8:25,8:25,8:35,2.2202
+Day 4,3,Fortitude Valley,Fortitude Valley,Fortitude Valley,,,,-27.4565,153.0345,8:48,8:48,8:58,7.0393
+Day 4,4,"Narela St, Cannon Hill","Narela St, Cannon Hill","Narela St, Cannon Hill",,,,-27.4686919,153.0820863,9:11,9:11,9:21,7.5189
+Day 4,5,Redlands,"Redland Bay QLD 4165, Australia",,,,,-27.6371881,153.2857165,10:00,10:00,10:10,33.1729
+Day 4,6,Eight Mile Plains,Eight Mile Plains,Eight Mile Plains,,,,-27.5758579,153.0921619,10:45,10:45,10:55,29.506
+Day 4,7,Moorooka,Moorooka,Moorooka,,,,-27.535,153.026,11:12,11:12,11:22,10.6361
+Day 4,8,Moorooka Magic Mile,Moorooka Magic Mile,Moorooka Magic Mile,,,,-27.5340283,153.0150415,11:27,11:27,11:37,1.1672
+Day 4,9,Yeerongpilly,Yeerongpilly,Yeerongpilly,,,,-27.53,153.012,11:43,11:43,11:53,2.9018
+Day 4,,Break,,,,,,,,12:00,12:00,13:00,0
+Day 4,10,Dutton Park Train Station,Dutton Park Train Station,Dutton Park Train Station,,,,-27.499765,153.0291041,13:02,13:02,13:12,4.0433
+Day 4,11,Ribbetts,Ribbetts,Ribbetts,,,,-27.4956251,153.0276285,13:14,13:14,13:24,0.6307
+Day 4,12,Boggo Road Gaol,Boggo Road Gaol,Boggo Road Gaol,,,,-27.4951298,153.0288771,13:26,13:26,13:36,0.348
+Day 4,13,Highgate Hill,Highgate Hill,Highgate Hill,,,,-27.487,153.019,13:41,13:41,13:51,1.7429
+Day 4,14,Woolloongabba,Woolloongabba,Woolloongabba,,,,-27.4856,153.0291,13:55,13:55,14:05,1.7518
+Day 4,15,"George Street, Brisbane City","George Street, Brisbane City","George Street, Brisbane City",,,,-27.4709824,153.0235762,14:11,14:11,14:21,2.5655
+Day 4,16,Brisbane City Hall,"64 Adelaide St, Brisbane City QLD 4000, Australia",,,,,-27.468993,153.023494,14:22,14:22,14:32,0.2556
+Day 4,17,"Adelaide Street, Brisbane","Adelaide Street, Brisbane","Adelaide Street, Brisbane",,,,-27.4666537,153.0274032,14:34,14:34,14:44,0.4626
+Day 4,18,King George Square,"King George Square, Brisbane City QLD 4000, Australia",,,,,-27.4684182,153.0241399,14:46,14:46,14:56,0.6143
+Day 4,999,,"261 Queen St, Brisbane City QLD 4000, Australia",,,,,-27.4679706,153.0280953,15:02,15:02,,1.3789
+Day 5,0,,"261 Queen St, Brisbane City QLD 4000, Australia",,,,,-27.4679706,153.0280953,8:00,8:00,,0
+Day 5,1,Kedron,"Kedron QLD 4031, Australia",,,,,-27.4000075,153.031578,8:15,8:15,8:25,8.3041
+Day 5,2,Chermside,Chermside,Chermside,,,,-27.3859344,153.0294751,8:30,8:30,8:40,1.8355
+Day 5,3,Albany Creek Crematorium,"Albany Creek Memorial Park, 400 Albany Creek Rd, Bridgeman Downs QLD 4035, Australia",,,,,-27.353585,152.989406,8:52,8:52,9:02,6.3542
+Day 5,4,"Bayan Kennels, 206 Norris Rd, Bracken Ridge","Bayan Kennels, 206 Norris Rd, Bracken Ridge","Bayan Kennels, 206 Norris Rd, Bracken Ridge",,,,-27.3263636,153.026298,9:16,9:16,9:26,6.3824
+Day 5,5,"Tor Street, Bracken Ridge","Tor Street, Bracken Ridge","Tor Street, Bracken Ridge",,,,-27.3237467,153.0266071,9:26,9:26,9:36,0.3291
+Day 5,6,Bracken Ridge Scouts Centre,Bracken Ridge Scouts Centre,Bracken Ridge Scouts Centre,,,,-27.3237467,153.0266071,9:36,9:36,9:46,0
+Day 5,7,"Arthur Street, Bracken Ridge","Arthur Street, Bracken Ridge","Arthur Street, Bracken Ridge",,,,-27.3237467,153.0266071,9:46,9:46,9:56,0
+Day 5,8,Bracken Ridge Tavern,"154 Barrett St, Bracken Ridge QLD 4017, Australia",,,,,-27.3200671,153.043155,10:04,10:04,10:14,3.0517
+Day 5,9,"Mother Duck Child Care, Denham St, Bracken Ridge","Mother Duck Child Care, Denham St, Bracken Ridge","Mother Duck Child Care, Denham St, Bracken Ridge",,,,-27.3199955,153.0443329,10:15,10:15,10:25,0.1444
+Day 5,10,Deagon Racecourse,Deagon Racecourse,Deagon Racecourse,,,,-27.323404,153.0532105,10:33,10:33,10:43,3.9695
+Day 5,11,Sandgate Swimming Pool,"231 Flinders Parade, Sandgate QLD 4017, Australia",,,,,-27.3119601,153.0686748,10:51,10:51,11:01,3.2914
+Day 5,12,Shorncliffe Pier,Shorncliffe Pier,Shorncliffe Pier,,,,-27.322671,153.0844173,11:10,11:10,11:20,3.0855
+Day 5,13,"Cabbage Tree Creek, Shorncliffe","Cabbage Tree Creek, Shorncliffe","Cabbage Tree Creek, Shorncliffe",,,,-27.327,153.079,11:25,11:25,11:35,1.0976
+Day 5,14,Sandgate Train Station,"Sandgate, Rainbow St, Sandgate QLD 4017, Australia",,,,,-27.3221197,153.0693288,11:40,11:40,11:50,1.3871
+Day 5,,Break,,,,,,,,11:59,12:00,13:00,0
+Day 5,15,Boondall,Boondall,Boondall,,,,-27.3533586,153.0606302,13:00,13:00,13:10,4.6132
+Day 5,16,"Chapel St and St Vincents Rd, Northgate","Chapel St and St Vincents Rd, Northgate","Chapel St and St Vincents Rd, Northgate",,,,-27.3758679,153.0764248,13:20,13:20,13:30,4.9657
+Day 5,17,Golden Circle Cannery,"19 Guardhouse Rd, Banyo QLD 4014, Australia",,,,,-27.3797643,153.0777267,13:33,13:33,13:43,1.2542
+Day 5,18,Bindha Train Station,Bindha Train Station,Bindha Train Station,,,,-27.383008,153.0725864,13:51,13:51,14:01,2.694
+Day 5,999,,"261 Queen St, Brisbane City QLD 4000, Australia",,,,,-27.4679706,153.0280953,14:21,14:21,,12.7039
+Day 6,0,,"261 Queen St, Brisbane City QLD 4000, Australia",,,,,-27.4679706,153.0280953,8:00,8:00,,0
+Day 6,1,Bulimba,Bulimba,Bulimba,,,,-27.45,153.058,8:17,8:17,8:27,8.6084
+Day 6,2,"Manly, QLD","Manly, QLD","Manly, QLD",,,,-27.45,153.183333,8:51,8:51,9:01,17.0085
+Day 6,3,"G. James Glass and Aluminium, Kingsford Smith Drive, Hamilton","1082 Kingsford Smith Dr, Eagle Farm QLD 4009, Australia",,,,,-27.429087,153.094228,9:22,9:22,9:32,14.9521
+Day 6,4,Hamilton Hotel,"442 Kingsford Smith Dr, Hamilton QLD 4007, Australia",,,,,-27.4391153,153.0640183,9:41,9:41,9:51,4.0185
+Day 6,5,Ascot,"Ascot QLD 4007, Australia",,,,,-27.431944,153.065,9:55,9:55,10:05,0.9956
+Day 6,6,Eagle Farm Racecourse,Eagle Farm Racecourse,Eagle Farm Racecourse,,,,-27.4307904,153.0656797,10:06,10:06,10:16,0.1366
+Day 6,7,Doomben,Doomben,Doomben,,,,-27.4286174,153.0743532,10:19,10:19,10:29,1.2052
+Day 6,8,Clayfield,Clayfield,Clayfield,,,,-27.4159369,153.0583828,10:36,10:36,10:46,2.9451
+Day 6,9,Clayfield,Clayfield,Clayfield,,,,-27.4159369,153.0583828,10:46,10:46,10:56,0
+Day 6,10,"Buckland Road, Nundah","Buckland Road, Nundah","Buckland Road, Nundah",,,,-27.4029643,153.0568396,11:01,11:01,11:11,1.7701
+Day 6,11,"Sisters of Mercy Women�s Refugee, 61 Bage St, Nundah","Sisters of Mercy Women�s Refugee, 61 Bage St, Nundah","Sisters of Mercy Women�s Refugee, 61 Bage St, Nundah",,,,-27.4034898,153.0583876,11:12,11:12,11:22,0.1978
+Day 6,12,Toombul Shoppingtown,Toombul Shoppingtown,Toombul Shoppingtown,,,,-27.409113,153.0616173,11:27,11:27,11:37,1.267
+Day 6,13,The Courier Mail,"14 Mayne Rd, Bowen Hills QLD 4006, Australia",,,,,-27.4466886,153.0347713,11:49,11:49,11:59,6.978
+Day 6,,Break,,,,,,,,12:00,12:00,13:00,0
+Day 6,14,Bowen Hills Train Station,Bowen Hills Train Station,Bowen Hills Train Station,,,,-27.4451446,153.0376818,13:00,13:00,13:10,0.5709
+Day 6,15,Fortitude Valley Police Station,"119 Brookes St, Fortitude Valley QLD 4006, Australia",,,,,-27.4532247,153.037268,13:12,13:12,13:22,1
+Day 6,16,RNA Showgrounds,RNA Showgrounds,RNA Showgrounds,,,,-27.4510454,153.0319808,13:24,13:24,13:34,0.7819
+Day 6,17,Royal Brisbane Hospital,Royal Brisbane Hospital,Royal Brisbane Hospital,,,,-27.4469767,153.0284688,13:37,13:37,13:47,1.1797
+Day 6,18,Ballymore,"91 Clyde Rd, Herston QLD 4006, Australia",,,,,-27.4419974,153.0177908,13:53,13:53,14:03,1.7301
+Day 6,19,Wilston,Wilston,Wilston,,,,-27.435,153.021,14:13,14:13,14:23,3.7843
+Day 6,999,,"261 Queen St, Brisbane City QLD 4000, Australia",,,,,-27.4679706,153.0280953,14:36,14:36,,5.1302
+Day 7,0,,"261 Queen St, Brisbane City QLD 4000, Australia",,,,,-27.4679706,153.0280953,8:00,8:00,,0
+Day 7,1,Logan City,"Logan, QLD, Australia",,,,,-27.7749944,153.0618566,8:48,8:48,8:58,49.5345
+Day 7,2,Ipswich,"Ipswich QLD 4305, Australia",,,,,-27.623,152.76,9:49,9:49,9:59,53.6684
+Day 7,3,"Mill St, Goodna","Mill St, Goodna","Mill St, Goodna",,,,-27.6110682,152.9035456,10:22,10:22,10:32,16.2138
+Day 7,4,Wacol,"Wacol QLD 4076, Australia",,,,,-27.588756,152.9254168,10:39,10:39,10:49,4.5471
+Day 7,5,Ipswich Motorway,Ipswich Motorway,Ipswich Motorway,,,,-27.581834,152.93427,10:51,10:51,11:01,1.2309
+Day 7,6,"Winslow St, Darra","Winslow St, Darra","Winslow St, Darra",,,,-27.5700112,152.9555146,11:07,11:07,11:17,3.5189
+Day 7,7,"Ebrington St, Darra","Ebrington St, Darra","Ebrington St, Darra",,,,-27.573323,152.9510788,11:19,11:19,11:29,0.7723
+Day 7,8,Wacol East Dependants Holding Camp for Displaced Persons,Wacol East Dependants Holding Camp for Displaced Persons,Wacol East Dependants Holding Camp for Displaced Persons,,,,-27.5832299,152.9424757,11:42,11:42,11:52,4.8654
+Day 7,,Break,,,,,,,,11:58,12:00,13:00,0
+Day 7,9,Richlands,"Richlands QLD 4077, Australia",,,,,-27.5868982,152.9529566,13:00,13:00,13:10,1.825
+Day 7,10,Richlands State High School,"99 Poinsettia St, Inala QLD 4077, Australia",,,,,-27.5984964,152.9678191,13:18,13:18,13:28,2.9615
+Day 7,11,Inala,Inala,Inala,,,,-27.5856,152.9754,13:35,13:35,13:45,2.8274
+Day 7,12,"St Vincent de Paul Society Opportunity Shop, Oxley","St Vincent de Paul Society Opportunity Shop, Oxley","St Vincent de Paul Society Opportunity Shop, Oxley",,,,-27.5686008,152.9830732,13:50,13:50,14:00,2.9308
+Day 7,13,Oxley Hotel,Oxley Hotel,Oxley Hotel,,,,-27.5656098,152.9793026,14:02,14:02,14:12,0.7031
+Day 7,14,"Logan Avenue, Oxley","Logan Avenue, Oxley","Logan Avenue, Oxley",,,,-27.5612237,152.9809875,14:15,14:15,14:25,0.7027
+Day 7,15,Oxley Laundromat,Oxley Laundromat,Oxley Laundromat,,,,-27.5606797,152.9786129,14:26,14:26,14:36,0.3431
+Day 7,16,"Oxley, QLD","Oxley, QLD","Oxley, QLD",,,,-27.55341,152.9727693,14:39,14:39,14:49,1.1156
+Day 7,17,"Oxley Avenue, Corinda","Oxley Avenue, Corinda","Oxley Avenue, Corinda",,,,-27.5454935,152.9806009,14:53,14:53,15:03,1.5712
+Day 7,18,Corinda,Corinda,Corinda,,,,-27.5442725,152.9823835,15:04,15:04,15:14,0.3939
+Day 7,999,,"261 Queen St, Brisbane City QLD 4000, Australia",,,,,-27.4679706,153.0280953,15:39,15:39,,13.3559

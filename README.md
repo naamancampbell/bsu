@@ -1,2 +1,2 @@
-# bsu
-Source for http://rpubs.com/naamancampbell/bsu
+# Boy Swallows Universe
+Source code and data for http://rpubs.com/naamancampbell/bsu
